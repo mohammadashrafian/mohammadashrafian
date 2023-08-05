@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Website](https://img.shields.io/website?label=mashrafian.com&style=for-the-badge&url=http://mashrafian.com)](http://mashrafian.com/)
 
 ## I'm a Front End Engineer.
 

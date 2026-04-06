@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Mohammad%20Ashrafian&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Senior%20Frontend%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+# Mohammad Ashrafian
+### Senior Frontend Engineer
+
+<br/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://mashrafian.com">
+<a href="https://mohammadashrafian.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+high-performance+web+at+scale;React+%7C+Next.js+%7C+TypeScript+%7C+9%2B+years" alt="Typing SVG" />
 </a>
 
@@ -62,10 +64,10 @@ I care deeply about **performance**, **clean architecture**, and **component-dri
 ```
  ┌──────────────────────────────────────────────────────────┐
  │  🚀  60% faster load times through architecture refactor │
- │  👥  100K+ users on platforms I've built                 │
+ │  👥  Built products used by 1,000,000+ users             │
  │  📦  Reduced duplicate code across multi-portal systems  │
- │  ⚡  Improved Core Web Vitals to production benchmarks   │
- │  🏗️  9+ years shipping frontend at scale                │
+ │  ⚡  Improved Core Web Vitals to production benchmarks    │
+ │  🏗️  9+ years shipping frontend at scale                 │
  └──────────────────────────────────────────────────────────┘
 ```
 
@@ -91,8 +93,3 @@ I'm always open to interesting conversations about frontend engineering, fintech
 **→ [mohammadashrafian.com](https://mohammadashrafian.com)** · **[LinkedIn](https://linkedin.com/in/mohammad-ashrafian)** · **[ashrafian19@gmail.com](mailto:ashrafian19@gmail.com)**
 
 </div>
-
-<br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
